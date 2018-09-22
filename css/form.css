@@ -1,0 +1,19 @@
+   body {
+       font-family: Arvo, serif;
+       background-color: #EFF3F6;
+   }
+
+   .row {
+       width: 50%;
+       margin: 100px auto 0 auto;
+   }
+
+   .contactForm {
+       border: 1px solid #7c73f6;
+       padding: 20px;
+       border-radius: 15px;
+   }
+
+   h1 {
+       color: #488CCA;
+   }
